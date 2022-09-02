@@ -1,0 +1,6 @@
+Owner:no permission at all
+ chmod 700 hello
+Group: no permission at all
+chmod 600 hello
+Other users: all the permissions
+chmod 777 hello
